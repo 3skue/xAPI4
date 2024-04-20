@@ -17,7 +17,7 @@ require(game.ReplicatedStorage.xAPI).load(debug.info(1, "f"))
 ```
 
 **Feedback and Improvements**
-- Go to Issues for questions or to report bugs
+- Go to Issues for questions or bugs
 - Go to Pull Requests for improvements
 
 ---
