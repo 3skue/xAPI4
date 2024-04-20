@@ -1,7 +1,5 @@
 <div align="center">
-
-![flat](https://github.com/3skue/xAPI4/assets/142699644/f7a7bc99-4ac6-454c-adc4-9e544ccd4f6b)
-
+  <img src="https://github.com/3skue/xAPI4/assets/142699644/f7a7bc99-4ac6-454c-adc4-9e544ccd4f6b" width="25%">
 </div>
 
 **Introduction**
@@ -26,9 +24,9 @@ require(game.ReplicatedStorage.xAPI).load(debug.info(1, "f"))
 
 <sub>
   
-**Notes**
+  **Notes**
 
-Current version: 4.0a
+  Current version: 4.0a
 
-xAPI is not against the Roblox TOS, as it does not modify the client externally and only runs what it is allowed to within the Roblox environment.
+  xAPI is not against the Roblox TOS, as it does not modify the client externally and only runs what it is allowed to within the Roblox environment.
 </sub>
