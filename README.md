@@ -5,7 +5,7 @@
 **Introduction**
 
 xAPI is a fast, flexible and powerful pentesting and debugging tool written in pure luau.
-It can detour, decompile and clone functions, hook metamethods and features over 45 globals that emulate the functionality of most executors.
+It can detour, decompile and clone functions, hook metamethods and features over 50 globals that emulate the functionality of most executors.
 
 **Installation**
 
@@ -13,7 +13,7 @@ To install xAPI, you will need to install the module from the GitHub repository 
 
 You can then use the following script to load xAPI:
 ```lua
-require(game.ReplicatedStorage.xAPI).load(debug.info(1, "f"))
+require(game.ReplicatedStorage.xAPI)()
 ```
 
 **Feedback and Improvements**
@@ -26,7 +26,7 @@ require(game.ReplicatedStorage.xAPI).load(debug.info(1, "f"))
   
   **Notes**
 
-  Current version: 4.0a
+  Current version: 4.0
 
   xAPI is not against the Roblox TOS, as it does not modify the client externally and only runs what it is allowed to within the Roblox environment.
 </sub>
