@@ -35,7 +35,7 @@ require(game.ReplicatedStorage.xAPI)()
 
 **Notes**
 
-  Current version: 4.1
+  Current version: 4.2
   
   xAPI is not against the Roblox TOS, as it does not modify the client externally and only runs what it is allowed to within the Roblox environment.
 </sub>
