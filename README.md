@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/3skue/xAPI4/assets/142699644/f7a7bc99-4ac6-454c-adc4-9e544ccd4f6b" width="25%">
+  <img src="https://github.com/user-attachments/assets/97f4b983-4e3d-46e5-a08f-d631479a7466" width="100%">
 </div>
 
 **Introduction**
