@@ -9,7 +9,7 @@ It can detour, decompile and clone functions, hook metamethods and features over
 
 **Installation**
 
-To install xAPI, you will need to download the latest model from [releases](https://github.com/3skue/xAPI4/releases) and insert it into ´game.ServerScriptService´.
+To install xAPI, you will need to download the latest model from [releases](https://github.com/3skue/xAPI4/releases) and insert it into `game.ServerScriptService`.
 
 You can then use the following snippet to load xAPI into your script:
 ```lua
