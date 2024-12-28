@@ -16,6 +16,8 @@ You can then use the following snippet to load xAPI into your script:
 require(game.ReplicatedStorage:WaitForChild("xAPI"))()
 ```
 
+Please note that xAPI can only run from a LocalScript, and will otherwise infinitely yield any server scripts.
+
 **Feedback and Improvements**
 - Go to Issues for questions or bugs
 - Go to Pull Requests for improvements
